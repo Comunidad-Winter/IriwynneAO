@@ -1,3 +1,3 @@
 # IriwynneAO
 
-[[https://i.imgur.com/ubGTXAv.jpg|alt=IriwynneAO]]
+![alt text](https://i.imgur.com/ubGTXAv.jpg)
